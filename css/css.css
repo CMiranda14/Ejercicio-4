@@ -136,7 +136,7 @@ section{
 }
 
 .block3{
-    height: 45px;
+    height: 35px;
     width: 200px;
     justify-content:center;
     background-color:#4a4a4a;
@@ -148,7 +148,7 @@ section{
     text-align:center;
     font-family:Arial;
     color:white;
-    padding-top:10px;
+    padding-top:5px;
 }
 
 footer{
